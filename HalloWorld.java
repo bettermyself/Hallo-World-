@@ -1,7 +1,7 @@
 public class HalloWorld
 {
-pubic static void main(string[] args)
+  pubic static void main(string[] args) 
   {
-  system.out.println("hallo world")
+     system.out.println("hallo world")
   }
 }
